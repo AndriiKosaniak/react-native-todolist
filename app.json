@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-playground",
-    "slug": "react-native-playground",
+    "name": "react-native-todolist",
+    "slug": "react-native-todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
